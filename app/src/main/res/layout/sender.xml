@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="150dip"
             android:gravity="left|top"
-            android:hint="Botschaft:"
+            android:hint="Botschaft"
             android:imeOptions="actionDone"
             android:padding="5dip"
             android:textSize="12dip" />
