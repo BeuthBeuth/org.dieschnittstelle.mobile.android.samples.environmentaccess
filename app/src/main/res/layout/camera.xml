@@ -28,9 +28,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:text="Standbild"
-            android:textSize="10sp" >
-        </Button>
+            android:text="Standbild!"
+            android:textSize="10sp"></Button>
 
         <Button
             android:id="@+id/captureVideo"
